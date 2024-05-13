@@ -3,7 +3,7 @@
 Text without an empty line is a paragraph.
 This is still my first paragraph. 
 Use *Italic* for emphasis or **bold text** for contrast.
-{Highlight}.
+==Highlight==
 
 ## Header Two
 
